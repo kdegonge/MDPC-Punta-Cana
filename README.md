@@ -6,9 +6,13 @@ you may modify for personal use but do not submit it to the org or any other web
 
 **CONTACT INFO**:
 Feel free to contact me at either of these two links. I am more active on reddit so that is the best place to find me. 
+
 xplane.org: https://forums.x-plane.org/index.php?/profile/534962-function86/
+
 reddit: https://www.reddit.com/user/StableSystem/
+
 You can also make posts regarding to this scenery at the official forum thread found at the link below.
+
 Forum Link: https://forums.x-plane.org/index.php?/forums/topic/153488-kcll-easterwood-field-open-source-scenery-oss/&tab=comments#comment-1454278
 
 **INSTALLATION INSTRUCTIONS**:
@@ -39,22 +43,39 @@ I always have more things that I wanted to include but didn't have time to add. 
 #### Known issues with the current beta release
 
 -08/26 edge lights should be in the grass
+
 -no ortho overlay (this is tentative, there isn't any good source so this might not happen)
+
 -no apron flood lights
+
 -individual trees and bushes are missing in some places
+
 -terminal A is missing
+
 -no buildings have normal maps
+
 -no fire station or radar
+
 -VIP hangar has no textures
+
 -VIP terminal and FBO terminal buildings are not accurate to the real thing
+
 -VIP terminal and terminal A are missing the trademark signs
+
 -terminal B expanded apron is missing. This will likely be included as a "under construction" area as I don't have enough source imagery to do it up to the accuracy of the rest of the airport
+
 -no static aircraft
+
 -no wed taxi routes
+
 -missing gates at terminal B
+
 -no ground vehicles/apron clutter
+
 -missing vehicle ground routes
+
 -airport frequencies not defined
+
 -no parking spaces defined
 
 #### If you use reddit feel free to check out r/FlightsimModding and post there about anything you might be developing, mods you think are worth sharing, or with any questions. 
