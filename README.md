@@ -78,6 +78,10 @@ I always have more things that I wanted to include but didn't have time to add. 
 
 -no parking spaces defined
 
+-mysterious floating lights over some buildings
+
+-strange reflections on buildings. I'm experimenting with normals, this will be fixed soon
+
 #### If you use reddit feel free to check out r/FlightsimModding and post there about anything you might be developing, mods you think are worth sharing, or with any questions. 
 
 8/13/2018 - Beta uploaded to github
