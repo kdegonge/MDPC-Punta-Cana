@@ -402,6 +402,72 @@ I
 20  18.57680314 -068.36100916 343.9100 0 2 {@Y,^l}2430M|670M{^r}
 20  18.57400174 -068.37110912 343.9100 0 2 {@Y,^l}1373M|1727M{^r}
 14  18.57097146 -068.36617919  98.43 0 New Tower Viewpoint 1
+1300  18.56344418 -068.37458201  85.69 tie_down turboprops|props|helos New Ramp Start 31
+1301 B general_aviation 
+1300  18.56400204 -068.37423640 223.36 tie_down turboprops|props|helos New Ramp Start 30
+1301 B general_aviation 
+1300  18.56402861 -068.37464739 170.54 tie_down turboprops|props|helos New Ramp Start 29
+1301 B general_aviation 
+1300  18.56398964 -068.37503037 171.87 tie_down turboprops|props|helos New Ramp Start 28
+1301 B general_aviation 
+1300  18.56396308 -068.37532927 162.65 tie_down turboprops|props|helos New Ramp Start 27
+1301 B general_aviation 
+1300  18.56561315 -068.36328949 355.10 gate jets New Ramp Start 26
+1301 C airline 
+1300  18.56564635 -068.36286689 355.10 gate jets New Ramp Start 26
+1301 C airline 
+1300  18.56568003 -068.36243503 355.10 gate jets New Ramp Start 26
+1301 C airline 
+1300  18.56571509 -068.36199056 355.10 gate jets New Ramp Start 26
+1301 C airline 
+1300  18.56575109 -068.36152474 355.10 gate jets New Ramp Start 26
+1301 C airline 
+1300  18.56316324 -068.36889560  84.51 gate jets New Ramp Start 25
+1301 D airline 
+1300  18.56369499 -068.36894464  85.02 gate jets New Ramp Start 24
+1301 D airline 
+1300  18.56434684 -068.36894854  84.86 gate jets New Ramp Start 23
+1301 E airline 
+1300  18.56442688 -068.36808249 264.63 gate jets New Ramp Start 22
+1301 C airline 
+1300  18.56403817 -068.36804477 264.63 gate jets New Ramp Start 21
+1301 C airline 
+1300  18.56367141 -068.36800974 264.93 gate jets New Ramp Start 20
+1301 C airline 
+1300  18.56330746 -068.36797500 264.68 gate jets New Ramp Start 19
+1301 C airline 
+1300  18.56410195 -068.35734095 276.09 tie_down turboprops|props|helos New Ramp Start 7
+1301 A general_aviation 
+1300  18.56372994 -068.35769673  22.89 tie_down turboprops|props|helos New Ramp Start 6
+1301 A general_aviation 
+1300  18.56407774 -068.35832942  85.07 tie_down turboprops|props|helos New Ramp Start 5
+1301 A general_aviation 
+1300  18.56367595 -068.36386210 174.02 gate jets|turboprops|props New Ramp Start 15
+1301 D airline 
+1300  18.56351245 -068.36596629 174.78 gate jets|turboprops|props New Ramp Start 18
+1301 D airline 
+1300  18.56360449 -068.36548824 175.27 gate jets|turboprops|props New Ramp Start 17
+1301 C airline 
+1300  18.56363754 -068.36505425 174.63 gate jets|turboprops|props New Ramp Start 16
+1301 C airline 
+1300  18.56362962 -068.36435987 174.19 gate jets|turboprops|props New Ramp Start 14
+1301 C airline 
+1300  18.56372817 -068.36330493 173.87 gate jets|turboprops|props New Ramp Start 13
+1301 D airline 
+1300  18.56375627 -068.36275494 174.28 gate jets|turboprops|props New Ramp Start 12
+1301 D airline 
+1300  18.56378056 -068.36214474 175.02 gate heavy|jets|turboprops|props New Ramp Start 11
+1301 E airline 
+1300  18.56384360 -068.36146088 174.49 gate heavy|jets|turboprops|props New Ramp Start 10
+1301 E airline 
+1300  18.56390524 -068.36080158 174.59 gate heavy|jets|turboprops|props New Ramp Start 9
+1301 E airline 
+1300  18.56396430 -068.36016016 174.16 gate heavy|jets|turboprops|props New Ramp Start 8
+1301 E airline 
+1300  18.56440970 -068.35859838 105.66 tie_down turboprops|props|helos New Ramp Start 4
+1301 A general_aviation 
+1300  18.56423433 -068.35858541  84.72 tie_down turboprops|props|helos New Ramp Start 3
+1301 A general_aviation 
 19  18.57602423 -068.35811023 0 New Windsock 3
 19  18.56779857 -068.35149684 0 New Windsock 4
 19  18.56393205 -068.35903167 0 New Windsock 1
