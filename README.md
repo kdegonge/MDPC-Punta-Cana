@@ -16,7 +16,7 @@ You can also make posts regarding to this scenery at the official forum thread f
 Forum Link: https://forums.x-plane.org/index.php?/forums/topic/153488-kcll-easterwood-field-open-source-scenery-oss/&tab=comments#comment-1454278
 
 **INSTALLATION INSTRUCTIONS**:
-unzip the main file you downloaded into xplane>custom scenery folder OR just drag the "KCLL - Easterwood" out of the zip file directly into your xplane>custom scenery folder
+unzip the main file you downloaded into xplane>custom scenery folder OR just drag the "MDPC - Punta Cana" out of the zip file directly into your xplane>custom scenery folder
 
 IF YOU ARE HAVING ERRORS:
 1. check that you have all of the libraries installed. You need the following libraries installed
@@ -56,19 +56,15 @@ I always have more things that I wanted to include but didn't have time to add. 
 
 -no fire station or radar
 
--VIP hangar has no textures
-
 -VIP terminal and FBO terminal buildings are not accurate to the real thing
 
--VIP terminal and terminal A are missing the trademark signs
+-VIP terminal and terminal A are missing the airport signs
 
--terminal B expanded apron is missing. This will likely be included as a "under construction" area as I don't have enough source imagery to do it up to the accuracy of the rest of the airport
+-terminal B expanded apron is missing. This will not be included in v1.0.0 as I don't have enough source imagery to do it up to the accuracy of the rest of the airport
 
 -no static aircraft
 
 -no wed taxi routes
-
--missing gates at terminal B
 
 -no ground vehicles/apron clutter
 
@@ -76,12 +72,11 @@ I always have more things that I wanted to include but didn't have time to add. 
 
 -airport frequencies not defined
 
--no parking spaces defined
-
 -mysterious floating lights over some buildings
 
 -strange reflections on buildings. I'm experimenting with normals, this will be fixed soon
 
 #### If you use reddit feel free to check out r/FlightsimModding and post there about anything you might be developing, mods you think are worth sharing, or with any questions. 
 
+8/21/2018 - v1.0.0
 8/13/2018 - Beta uploaded to github
