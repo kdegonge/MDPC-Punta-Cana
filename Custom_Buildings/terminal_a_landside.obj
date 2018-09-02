@@ -4,7 +4,7 @@ OBJ
 
 POINT_COUNTS	966	0	0	966
 TEXTURE	terminal_a_landside.png
-TEXTURE_NORMAL	terminal_a_landside_NML.dds
+TEXTURE_NORMAL	terminal_a_landside_NML.png
 
 VT	126.75645447	0	-0.06124049	1	0	0	0.77554595	0.24571121
 VT	126.75645447	3.0480001	1.24049127	1	0	0	0.88016319	0.00075053
@@ -1076,8 +1076,7 @@ IDX	963
 IDX	964
 IDX	965
 
-ATTR_shiny_rat	0.4
-ATTR_no_blend
+ATTR_shiny_rat	0.5
 TRIS	0 966
 
 # Build with Blender 2.79 (sub 0) (build b'f4dc9f9d68b'). Exported with XPlane2Blender 3.4.0-beta.7+2.20171220020615

@@ -1,0 +1,68 @@
+++PUJ++ 107.5hrs
+[x] wedomaker
+[x] update libraries
+[x] get PP library
+[x] runway (invis)
+[x] runway poly
+[x] runway lines
+[x] runway numbers
+[x] runway tdz markings
+[x] runway tire marks
+[x] runway shoulder/turnaround
+[x] runway blast pad
+[x] runway lights embed
+[x] runway edges
+[x] runway papi
+[x] runway papi bases
+[x] windsocks (7x)
+[x] taxiway poly
+[x] taxiway lights
+[x] taxiway lines
+[x] taxiway signs
+[x] taxiway sign bases
+[x] taxiway shoulder
+[x] taxiway edges
+[x] apron poly
+[x] apron stain overlay
+[x] apron markings
+[x] apron roads
+[x] apron edges
+[x] vegetation forests
+[x] build term B
+[x] build tower
+[x] build fbo
+[x] build VIP term
+[x] build VIP hangar
+[x] departures
+[x] fbo parking
+[x] parking positions
+[?] autogate
+[ ] redo 08/26 edge lights
+[ ] apron lighting
+[ ] vegetation 3d grass
+[ ] vegetation indv trees
+[ ] term A
+[ ] east hangar/radar
+[ ] fuel depot
+[ ] east cargo hub
+[ ] parking lot
+[ ] short term parking
+[ ] west cargo hub
+[ ] static aircraft
+[ ] ground routes
+[ ] AI routes
+[ ] apron clutter
+[ ] airport frequencies
+[ ] re-enable wed taxiways
+[+] construction zone
+[+] create cobble ground texture
+[+] ortho overlay
+[+] ortho poly RGBA
+---------------------------
+[ ] tower railing
+[ ] tower windows
+[ ] tower staircase
+[ ] tower antenna
+[ ] tower mapping & AO
+[ ] tower textures
+[ ] tower normals
