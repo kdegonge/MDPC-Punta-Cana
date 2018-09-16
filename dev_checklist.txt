@@ -1,4 +1,4 @@
-++PUJ++ 107.5hrs
+++PUJ++ 111.5hrs
 [x] wedomaker
 [x] update libraries
 [x] get PP library
@@ -36,13 +36,14 @@
 [x] departures
 [x] fbo parking
 [x] parking positions
+[x] term A
+[x] radar tower
 [?] autogate
 [ ] redo 08/26 edge lights
 [ ] apron lighting
 [ ] vegetation 3d grass
 [ ] vegetation indv trees
-[ ] term A
-[ ] east hangar/radar
+[ ] east fire station
 [ ] fuel depot
 [ ] east cargo hub
 [ ] parking lot
@@ -58,11 +59,3 @@
 [+] create cobble ground texture
 [+] ortho overlay
 [+] ortho poly RGBA
----------------------------
-[ ] tower railing
-[ ] tower windows
-[ ] tower staircase
-[ ] tower antenna
-[ ] tower mapping & AO
-[ ] tower textures
-[ ] tower normals

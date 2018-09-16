@@ -4,7 +4,7 @@ OBJ
 
 POINT_COUNTS	10362	0	0	10362
 TEXTURE	terminal_a_tower.png
-TEXTURE_NORMAL	terminal_a_tower_NML.dds
+TEXTURE_NORMAL	terminal_a_tower_NML.png
 GLOBAL_specular 1.0
 NORMAL_METALNESS
 
