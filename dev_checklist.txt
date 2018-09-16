@@ -1,4 +1,4 @@
-++PUJ++ 111.5hrs
+++PUJ++ 112.5hrs
 [x] wedomaker
 [x] update libraries
 [x] get PP library
@@ -38,12 +38,12 @@
 [x] parking positions
 [x] term A
 [x] radar tower
+[x] east fire station
 [?] autogate
 [ ] redo 08/26 edge lights
 [ ] apron lighting
 [ ] vegetation 3d grass
 [ ] vegetation indv trees
-[ ] east fire station
 [ ] fuel depot
 [ ] east cargo hub
 [ ] parking lot
