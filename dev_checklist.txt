@@ -1,4 +1,4 @@
-++PUJ++ 115hrs
+++PUJ++ 122hrs
 [x] wedomaker
 [x] update libraries
 [x] get PP library
@@ -42,14 +42,13 @@
 [?] autogate
 [ ] redo 08/26 edge lights
 [ ] apron lighting
-[ ] vegetation 3d grass
+[x] vegetation 3d grass
 [ ] vegetation indv trees
-[ ] fuel depot
-[ ] east cargo hub
-[ ] parking lot
-[ ] short term parking
-[ ] west cargo hub
-[ ] static aircraft
+[x] fuel depot
+[x] east cargo hub
+[x] parking lot
+[x] short term parking
+[x] west cargo hub
 [ ] ground routes
 [ ] AI routes
 [ ] apron clutter
