@@ -68,6 +68,8 @@ I always have more things that I wanted to include but didn't have time to add. 
 
 #### If you use reddit feel free to check out r/FlightsimModding and post there about anything you might be developing, mods you think are worth sharing, or with any questions. 
 
+10/11/2018 - v0.2.1
+
 10/9/2018 - v0.2.0
 
 8/21/2018 - v0.1.0
