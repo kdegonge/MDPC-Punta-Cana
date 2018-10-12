@@ -439,7 +439,7 @@ I
 1301 C airline 
 1300  18.56410195 -068.35734095 276.09 tie_down turboprops|props|helos New Ramp Start 7
 1301 A general_aviation 
-1300  18.56372994 -068.35769673  22.89 tie_down turboprops|props|helos New Ramp Start 6
+1300  18.56390452 -068.35768506 355.22 tie_down turboprops|props|helos New Ramp Start 6
 1301 A general_aviation 
 1300  18.56407774 -068.35832942  85.07 tie_down turboprops|props|helos New Ramp Start 5
 1301 A general_aviation 
@@ -476,4 +476,11 @@ I
 19  18.57236039 -068.37969733 0 New Windsock 6
 19  18.56698034 -068.37516085 0 New Windsock 7
 19  18.56782008 -068.36535604 0 New Windsock 2
+1200 
+1201  18.57816651 -068.35483305 both 0 B_stop
+1201  18.57033336 -068.38299995 both 1 B_start
+1202 1 0 twoway runway 08/26
+1204 departure 08,26
+1204 arrival 08,26
+1204 ils 08,26
 99

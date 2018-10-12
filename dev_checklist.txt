@@ -1,4 +1,4 @@
-++PUJ++ 122hrs
+++PUJ++ 125 hrs
 [x] wedomaker
 [x] update libraries
 [x] get PP library
@@ -43,7 +43,7 @@
 [ ] redo 08/26 edge lights
 [ ] apron lighting
 [x] vegetation 3d grass
-[ ] vegetation indv trees
+[x] vegetation indv trees
 [x] fuel depot
 [x] east cargo hub
 [x] parking lot
@@ -51,7 +51,7 @@
 [x] west cargo hub
 [ ] ground routes
 [ ] AI routes
-[ ] apron clutter
+[x] apron clutter
 [ ] airport frequencies
 [ ] re-enable wed taxiways
 [+] construction zone
