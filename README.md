@@ -46,27 +46,19 @@ I always have more things that I wanted to include but didn't have time to add. 
 
 -no ortho overlay (this is tentative, there isn't any good source so this might not happen)
 
--no apron flood lights
-
--individual trees and bushes are missing in some places
-
 -VIP terminal and FBO terminal buildings are not accurate to the real thing
 
 -VIP terminal and terminal A are missing the airport signs
 
 -terminal B expanded apron is missing. This will not be included in v1.0.0 as I don't have enough source imagery to do it up to the accuracy of the rest of the airport
 
--no wed taxi routes
-
--no ground vehicles/apron clutter
-
 -missing vehicle ground routes
-
--airport frequencies not defined
 
 -mysterious floating lights over some buildings
 
 #### If you use reddit feel free to check out r/FlightsimModding and post there about anything you might be developing, mods you think are worth sharing, or with any questions. 
+
+10/12/2018 - v0.2.2
 
 10/11/2018 - v0.2.1
 
