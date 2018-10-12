@@ -4,6 +4,8 @@
 ### DO NOT DISTRIBUTE
 you may modify for personal use but do not submit it to the org or any other website. If you make modifictions and you wish to have them featured on the official download, please send me a message or reply to the official forum thread
 
+Credit goes to MisterX6 for the use of his library and some assets from his KPDX scenery (with his permission), as well as Richard Antoine for the use of the RA Library and hdw for the PP Library
+
 **CONTACT INFO**:
 Feel free to contact me at either of these two links. I am more active on reddit so that is the best place to find me. 
 
@@ -20,8 +22,9 @@ unzip the main file you downloaded into xplane>custom scenery folder OR just dra
 
 IF YOU ARE HAVING ERRORS:
 1. check that you have all of the libraries installed. You need the following libraries installed
-	RA Library v1.1
+	RA Library v1.1+
 	MisterX Library v1.5+
+	PP Library v1.2+
 1a. Verify you installed both the base and the update for RA Library. You can check that you have done this by looking in the files for RA_Library>Vegetation>GreenLandscape>Lawn01.for as that file is only present when you have 1.1 installed
 2. Make sure you unzipped the folders properly. You should have inside your xplane>custom scenery folder a folder called MDPC - Punta Cana and inside that should be 3 other folders along with this readme
 3. Make sure your scenery load priorities are set properly. Check the scenery_packs.cfg file and make sure this scenery is listed. If it is there and it still doesnt work then delete your scenery_packs.cfg and releaunch the sim, that file will regenerate and it should fix it. 
