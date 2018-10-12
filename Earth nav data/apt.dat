@@ -403,72 +403,73 @@ I
 20  18.57680314 -068.36100916 343.9100 0 2 {@Y,^l}2430M|670M{^r}
 20  18.57400174 -068.37110912 343.9100 0 2 {@Y,^l}1373M|1727M{^r}
 14  18.57097146 -068.36617919  98.43 0 New Tower Viewpoint 1
-1300  18.56344419 -068.37458201  85.69 tie_down turboprops|props|helos New Ramp Start 31
-1301 B general_aviation 
-1300  18.56400204 -068.37423640 223.36 tie_down turboprops|props|helos New Ramp Start 30
-1301 B general_aviation 
-1300  18.56402861 -068.37464739 170.54 tie_down turboprops|props|helos New Ramp Start 29
-1301 B general_aviation 
-1300  18.56398964 -068.37503037 171.87 tie_down turboprops|props|helos New Ramp Start 28
-1301 B general_aviation 
-1300  18.56396308 -068.37532927 162.65 tie_down turboprops|props|helos New Ramp Start 27
-1301 B general_aviation 
-1300  18.56561315 -068.36328949 355.10 gate jets New Ramp Start 26
+1300  18.56561315 -068.36328949 355.10 gate heavy|jets|turboprops N5
 1301 C airline 
-1300  18.56564635 -068.36286689 355.10 gate jets New Ramp Start 26
-1301 C airline 
-1300  18.56568004 -068.36243503 355.10 gate jets New Ramp Start 26
-1301 C airline 
-1300  18.56571510 -068.36199056 355.10 gate jets New Ramp Start 26
-1301 C airline 
-1300  18.56575109 -068.36152474 355.10 gate jets New Ramp Start 26
-1301 C airline 
-1300  18.56316324 -068.36889560  84.51 gate jets New Ramp Start 25
+1300  18.56564635 -068.36286689 355.10 gate heavy|jets|turboprops N4
 1301 D airline 
-1300  18.56369499 -068.36894464  85.02 gate jets New Ramp Start 24
+1300  18.56568004 -068.36243503 355.10 gate heavy|jets|turboprops N3
+1301 C airline 
+1300  18.56571510 -068.36199056 355.10 gate heavy|jets|turboprops N2
 1301 D airline 
-1300  18.56434684 -068.36894854  84.86 gate jets New Ramp Start 23
+1300  18.56575109 -068.36152474 355.10 gate heavy|jets|turboprops N1
+1301 C airline 
+1300  18.56316324 -068.36889560  84.51 gate heavy|jets|turboprops B21
+1301 D airline 
+1300  18.56369499 -068.36894464  85.02 gate heavy|jets|turboprops B23
 1301 E airline 
-1300  18.56442688 -068.36808249 264.63 gate jets New Ramp Start 22
+1300  18.56434684 -068.36894854  84.86 gate heavy|jets|turboprops B25
+1301 F airline 
+1300  18.56442688 -068.36808249 264.63 gate heavy|jets|turboprops B26
 1301 C airline 
-1300  18.56403817 -068.36804477 264.63 gate jets New Ramp Start 21
+1300  18.56403817 -068.36804477 264.63 gate heavy|jets|turboprops B24
 1301 C airline 
-1300  18.56367141 -068.36800974 264.93 gate jets New Ramp Start 20
+1300  18.56367141 -068.36800974 264.93 gate heavy|jets|turboprops B22
 1301 C airline 
-1300  18.56330746 -068.36797500 264.68 gate jets New Ramp Start 19
+1300  18.56330746 -068.36797500 264.68 gate heavy|jets|turboprops B20
 1301 C airline 
-1300  18.56410195 -068.35734095 276.09 tie_down turboprops|props|helos New Ramp Start 7
+1300  18.56410195 -068.35734095 276.09 tie_down turboprops|props|helos VIP Parking
 1301 A general_aviation 
-1300  18.56390452 -068.35768506 355.22 tie_down turboprops|props|helos New Ramp Start 6
+1300  18.56390452 -068.35768506 355.22 tie_down turboprops|props|helos VIP Parking
 1301 A general_aviation 
-1300  18.56407774 -068.35832942  85.07 tie_down turboprops|props|helos New Ramp Start 5
+1300  18.56407774 -068.35832942  85.07 tie_down turboprops|props|helos VIP Parking
 1301 A general_aviation 
-1300  18.56367595 -068.36386210 174.02 gate jets|turboprops|props New Ramp Start 15
+1300  18.56367595 -068.36386210 174.02 gate heavy|jets|turboprops 7
 1301 D airline 
-1300  18.56351245 -068.36596629 174.78 gate jets|turboprops|props New Ramp Start 18
-1301 D airline 
-1300  18.56360449 -068.36548824 175.27 gate jets|turboprops|props New Ramp Start 17
+1300  18.56351245 -068.36596629 174.78 gate heavy|jets|turboprops 11
+1301 E airline 
+1300  18.56360449 -068.36548824 175.27 gate heavy|jets|turboprops 10
 1301 C airline 
-1300  18.56363754 -068.36505425 174.63 gate jets|turboprops|props New Ramp Start 16
+1300  18.56363754 -068.36505425 174.63 gate heavy|jets|turboprops 9
 1301 C airline 
-1300  18.56362962 -068.36435987 174.19 gate jets|turboprops|props New Ramp Start 14
+1300  18.56362962 -068.36435987 174.19 gate heavy|jets|turboprops 8
 1301 C airline 
-1300  18.56372817 -068.36330493 173.87 gate jets|turboprops|props New Ramp Start 13
+1300  18.56372817 -068.36330493 173.87 gate heavy|jets|turboprops 6
 1301 D airline 
-1300  18.56375627 -068.36275494 174.28 gate jets|turboprops|props New Ramp Start 12
+1300  18.56375627 -068.36275494 174.28 gate heavy|jets|turboprops 5
 1301 D airline 
-1300  18.56378056 -068.36214474 175.02 gate heavy|jets|turboprops|props New Ramp Start 11
+1300  18.56378056 -068.36214474 175.02 gate heavy|jets|turboprops 4
 1301 E airline 
-1300  18.56384360 -068.36146088 174.49 gate heavy|jets|turboprops|props New Ramp Start 10
-1301 E airline 
-1300  18.56390524 -068.36080158 174.59 gate heavy|jets|turboprops|props New Ramp Start 9
-1301 E airline 
-1300  18.56396430 -068.36016016 174.16 gate heavy|jets|turboprops|props New Ramp Start 8
-1301 E airline 
-1300  18.56440970 -068.35859838 105.66 tie_down turboprops|props|helos New Ramp Start 4
+1300  18.56384360 -068.36146088 174.49 gate heavy|jets|turboprops 3
+1301 F airline 
+1300  18.56390524 -068.36080158 174.59 gate heavy|jets|turboprops 2
+1301 D airline 
+1300  18.56396430 -068.36016016 174.16 gate heavy|jets|turboprops 1
+1301 F airline 
+1300  18.56440970 -068.35859838 105.66 tie_down turboprops|props|helos VIP Parking
 1301 A general_aviation 
-1300  18.56423433 -068.35858541  84.72 tie_down turboprops|props|helos New Ramp Start 3
+1300  18.56423433 -068.35858541  84.72 tie_down turboprops|props|helos VIP Parking
 1301 A general_aviation 
+1300  18.56344419 -068.37458201  85.69 tie_down turboprops|props|helos General Aviation
+1301 B general_aviation 
+1300  18.56400204 -068.37423640 223.36 tie_down turboprops|props|helos General Aviation
+1301 B general_aviation 
+1300  18.56402861 -068.37464739 170.54 tie_down turboprops|props|helos General Aviation
+1301 B general_aviation 
+1300  18.56398964 -068.37503037 171.87 tie_down turboprops|props|helos General Aviation
+1301 B general_aviation 
+1300  18.56396308 -068.37532927 162.65 tie_down turboprops|props|helos General Aviation
+1301 B general_aviation 
+18  18.57103738 -068.36587476 1 New Airport Beacon 340
 19  18.57602423 -068.35811023 0 New Windsock 3
 19  18.56779857 -068.35149684 0 New Windsock 4
 19  18.56393205 -068.35903167 0 New Windsock 1
@@ -476,11 +477,387 @@ I
 19  18.57236039 -068.37969733 0 New Windsock 6
 19  18.56698034 -068.37516085 0 New Windsock 7
 19  18.56782008 -068.36535604 0 New Windsock 2
+55 11975 approach
+50 13285 ATIS
+54 11880 tower
+52 12165 clearance delivery
+53 12190 ground
 1200 
-1201  18.57816651 -068.35483305 both 0 B_stop
-1201  18.57033336 -068.38299995 both 1 B_start
-1202 1 0 twoway runway 08/26
+1201  18.57603953 -068.36060313 both 0 A_stop
+1201  18.57615000 -068.36071967 both 1 A_stop
+1201  18.57628981 -068.36074516 both 2 A_stop
+1201  18.57644171 -068.36070510 both 3 A_stop
+1201  18.56447192 -068.36591899 both 4 A_stop
+1201  18.56451618 -068.36527843 both 5 A_stop
+1201  18.56467892 -068.36340316 both 6 A_stop
+1201  18.56464453 -068.36382431 both 7 A_stop
+1201  18.56463254 -068.36396116 both 8 A_stop
+1201  18.56458790 -068.36446485 both 9 A_stop
+1201  18.56452990 -068.36511380 both 10 A_stop
+1201  18.56529657 -068.35780734 both 11 A_stop
+1201  18.56521716 -068.35790925 both 12 A_stop
+1201  18.56519508 -068.35793949 both 13 A_stop
+1201  18.56514227 -068.35810343 both 14 A_stop
+1201  18.56503664 -068.35950111 both 15 A_stop
+1201  18.56496615 -068.36026520 both 16 A_stop
+1201  18.56490971 -068.36090766 both 17 A_stop
+1201  18.56485646 -068.36144570 both 18 A_stop
+1201  18.56484547 -068.36156696 both 19 A_stop
+1201  18.56480822 -068.36194983 both 20 A_stop
+1201  18.56477626 -068.36230494 both 21 A_stop
+1201  18.56473830 -068.36272960 both 22 A_stop
+1201  18.56472731 -068.36285921 both 23 A_stop
+1201  18.56469634 -068.36320483 both 24 A_stop
+1201  18.56545770 -068.35772556 both 25 A_stop
+1201  18.56564226 -068.35770681 both 26 A_stop
+1201  18.56701616 -068.35783865 both 27 A_stop
+1201  18.56867118 -068.35799908 both 28 A_stop
+1201  18.56788766 -068.35792313 both 29 A_stop
+1201  18.57417940 -068.35831374 both 30 A_stop
+1201  18.57450987 -068.35833864 both 31 A_stop
+1201  18.57484476 -068.35842424 both 32 A_stop
+1201  18.57529029 -068.35868415 both 33 A_stop
+1201  18.57545110 -068.35886780 both 34 A_stop
+1201  18.57563109 -068.35915884 both 35 A_stop
+1201  18.57574468 -068.35946078 both 36 A_stop
+1201  18.57584129 -068.35986601 both 37 A_stop
+1201  18.57515807 -068.35857891 both 38 P_stop
+1201  18.57526429 -068.35837496 both 39 P_stop
+1201  18.57535893 -068.35809764 both 40 P_stop
+1201  18.57637768 -068.35496998 both 41 P_stop
+1201  18.57643915 -068.35481823 both 42 P_stop
+1201  18.57651906 -068.35469243 both 43 P_stop
+1201  18.57661618 -068.35461590 both 44 P_stop
+1201  18.57672068 -068.35458607 both 45 P_stop
+1201  18.57686575 -068.35458997 both 46 P_stop
+1201  18.57701531 -068.35462652 both 47 P_stop
+1201  18.56866673 -068.34883329 both 48 B_stop
+1201  18.56616698 -068.37799928 both 49 B_start
+1201  18.56617506 -068.37790483 both 50 B_start
+1201  18.56706844 -068.36749954 both 51 B_start
+1201  18.56734423 -068.36423876 both 52 B_start
+1201  18.57813287 -068.35496192 both 53 B_stop
+1201  18.57033336 -068.38299995 both 54 B_start
+1201  18.57042210 -068.38268231 both 55 B_start
+1201  18.57378205 -068.37060600 both 56 B_start
+1201  18.57604892 -068.36242867 both 57 B_start
+1201  18.57657635 -068.36056125 both 58 B_start
+1201  18.57607478 -068.36154554 both 59 B_start
+1201  18.57601175 -068.36070244 both 60 B_start
+1201  18.57595667 -068.36041557 both 61 B_start
+1201  18.56337652 -068.36733649 both 62 G_start
+1201  18.56373078 -068.36736830 both 63 G_start
+1201  18.56408291 -068.36740545 both 64 G_start
+1201  18.56447853 -068.36744259 both 65 G_start
+1201  18.56454341 -068.36555052 both 66 D_stop
+1201  18.56458177 -068.36572015 both 67 D_stop
+1201  18.56469242 -068.36595826 both 68 D_stop
+1201  18.56498030 -068.36634321 both 69 D_stop
+1201  18.56517712 -068.36665624 both 70 D_stop
+1201  18.57023598 -068.38277417 both 71 E_stop
+1201  18.57012073 -068.38279849 both 72 E_stop
+1201  18.57001059 -068.38279849 both 73 E_stop
+1201  18.56987712 -068.38277290 both 74 E_stop
+1201  18.56953187 -068.38266508 both 75 E_stop
+1201  18.56892315 -068.38247684 both 76 E_stop
+1201  18.56882838 -068.38241920 both 77 E_stop
+1201  18.56871398 -068.38232103 both 78 E_stop
+1201  18.56860904 -068.38216959 both 79 E_stop
+1201  18.56701913 -068.37843430 both 80 E_stop
+1201  18.56692351 -068.37820194 both 81 E_stop
+1201  18.56683301 -068.37806505 both 82 E_stop
+1201  18.56675447 -068.37799029 both 83 E_stop
+1201  18.56665372 -068.37794436 both 84 E_stop
+1201  18.56651176 -068.37792905 both 85 E_stop
+1201  18.56527789 -068.37784030 both 86 E_stop
+1201  18.56482249 -068.37779346 both 87 E_stop
+1201  18.56471627 -068.37777666 both 88 E_stop
+1201  18.56461536 -068.37773184 both 89 E_stop
+1201  18.56454100 -068.37767394 both 90 E_stop
+1201  18.56446134 -068.37758244 both 91 E_stop
+1201  18.56441531 -068.37746105 both 92 E_stop
+1201  18.56439761 -068.37728177 both 93 E_stop
+1201  18.56528372 -068.36718698 both 94 E_stop
+1201  18.56525734 -068.36751486 both 95 E_stop
+1201  18.56502329 -068.37013533 both 96 E_stop
+1201  18.56447978 -068.37631013 both 97 E_stop
+1201  18.56570266 -068.36752437 both 98 E_stop
+1201  18.56577897 -068.36409771 both 99 B_stop
+1201  18.56556022 -068.36404705 both 100 B_stop
+1201  18.56644116 -068.36415356 both 101 B_stop
+1201  18.56355298 -068.37602494 both 102 F_stop
+1201  18.56360447 -068.37529282 both 103 F_stop
+1201  18.56363430 -068.37497189 both 104 F_stop
+1201  18.56366711 -068.37454398 both 105 F_stop
+1201  18.56355548 -068.37610836 both 106 F_stop
+1201  18.56358794 -068.37617246 both 107 F_stop
+1201  18.56368520 -068.37622984 both 108 F_stop
+1201  18.57355646 -068.37015111 both 109 H_stop
+1201  18.57348071 -068.36992806 both 110 H_stop
+1201  18.57340663 -068.36974804 both 111 H_stop
+1201  18.57318603 -068.36930457 both 112 H_stop
+1201  18.57303869 -068.36906922 both 113 H_stop
+1201  18.57295379 -068.36896735 both 114 H_stop
+1201  18.57282060 -068.36882246 both 115 H_stop
+1201  18.57267076 -068.36868898 both 116 H_stop
+1201  18.57252592 -068.36858535 both 117 H_stop
+1201  18.57235943 -068.36848963 both 118 H_stop
+1201  18.57219295 -068.36841411 both 119 H_stop
+1201  18.57205810 -068.36836757 both 120 H_stop
+1201  18.57192990 -068.36833508 both 121 H_stop
+1201  18.56862902 -068.36764081 both 122 H_stop
+1201  18.56849381 -068.36761501 both 123 H_stop
+1201  18.56828236 -068.36758314 both 124 H_stop
+1201  18.56812557 -068.36756190 both 125 H_stop
+1201  18.56786665 -068.36753610 both 126 H_stop
+1201  18.56733875 -068.36749665 both 127 H_stop
+1201  18.56620895 -068.36751847 both 128 G_stop
+1201  18.56309268 -068.36996116 both 129 E2_stop
+1201  18.56361031 -068.37000926 both 130 E2_stop
+1201  18.56428009 -068.37007764 both 131 E2_stop
+1201  18.56421601 -068.35828617 both 132 _stop
+1201  18.56424190 -068.35787101 both 133 _stop
+1201  18.56426607 -068.35779089 both 134 _stop
+1201  18.56431958 -068.35774537 both 135 _stop
+1201  18.56452326 -068.35775630 both 136 _stop
+1201  18.56507044 -068.35780546 both 137 _stop
+1202 0 61 twoway taxiway_F A
+1204 departure 08,26
+1204 arrival 08,26
+1202 1 0 twoway taxiway_F A
+1204 departure 08,26
+1204 arrival 08,26
+1202 2 1 twoway taxiway_F A
+1204 departure 08,26
+1204 arrival 08,26
+1202 3 2 twoway taxiway_F A
+1204 departure 08,26
+1204 arrival 08,26
+1202 58 3 twoway taxiway_F A
+1204 departure 08,26
+1204 arrival 08,26
+1202 5 4 twoway taxiway_F A
+1202 6 7 twoway taxiway_F A
+1202 7 8 twoway taxiway_F A
+1202 8 9 twoway taxiway_F A
+1202 9 10 twoway taxiway_F A
+1202 10 5 twoway taxiway_F A
+1202 25 11 twoway taxiway_F A
+1202 11 12 twoway taxiway_F A
+1202 12 13 twoway taxiway_F A
+1202 13 14 twoway taxiway_F A
+1202 14 15 twoway taxiway_F A
+1202 15 16 twoway taxiway_F A
+1202 16 17 twoway taxiway_F A
+1202 17 18 twoway taxiway_F A
+1202 18 19 twoway taxiway_F A
+1202 19 20 twoway taxiway_F A
+1202 20 21 twoway taxiway_F A
+1202 21 22 twoway taxiway_F A
+1202 22 23 twoway taxiway_F A
+1202 23 24 twoway taxiway_F A
+1202 24 6 twoway taxiway_F A
+1202 26 25 twoway taxiway_F A
+1202 27 26 twoway taxiway_F A
+1202 28 29 twoway taxiway_F A
+1204 departure 09,27
+1204 arrival 09,27
+1202 29 27 twoway taxiway_F A
+1204 departure 09,27
+1204 arrival 09,27
+1202 30 28 twoway taxiway_F A
+1202 31 30 twoway taxiway_F A
+1202 32 31 twoway taxiway_F A
+1202 38 32 twoway taxiway_F A
+1202 33 38 twoway taxiway_F A
+1202 34 33 twoway taxiway_F A
+1202 35 34 twoway taxiway_F A
+1202 36 35 twoway taxiway_F A
+1202 37 36 twoway taxiway_F A
+1202 57 59 twoway taxiway_F A
+1204 departure 08,26
+1204 arrival 08,26
+1202 59 60 twoway taxiway_F A
+1204 departure 08,26
+1204 arrival 08,26
+1202 60 61 twoway taxiway_F A
+1204 departure 08,26
+1204 arrival 08,26
+1202 61 37 twoway taxiway_F A
+1204 departure 08,26
+1204 arrival 08,26
+1202 39 38 twoway taxiway_F P
+1202 40 39 twoway taxiway_F P
+1202 41 40 twoway taxiway_F P
+1202 42 41 twoway taxiway_F P
+1202 43 42 twoway taxiway_F P
+1202 44 43 twoway taxiway_F P
+1202 45 44 twoway taxiway_F P
+1202 46 45 twoway taxiway_F P
+1202 47 46 twoway taxiway_F P
+1202 53 47 twoway taxiway_F P
+1204 departure 08,26
+1204 arrival 08,26
+1202 49 50 twoway runway 09/27
+1204 departure 09,27
+1204 arrival 09,27
+1204 ils 09,27
+1202 50 51 twoway runway 09/27
+1204 departure 09,27
+1204 arrival 09,27
+1204 ils 09,27
+1202 51 52 twoway runway 09/27
+1204 departure 09,27
+1204 arrival 09,27
+1204 ils 09,27
+1202 52 29 twoway runway 09/27
+1204 departure 09,27
+1204 arrival 09,27
+1204 ils 09,27
+1202 29 48 twoway runway 09/27
+1204 departure 09,27
+1204 arrival 09,27
+1204 ils 09,27
+1202 54 55 twoway runway 08/26
 1204 departure 08,26
 1204 arrival 08,26
 1204 ils 08,26
+1202 55 56 twoway runway 08/26
+1204 departure 08,26
+1204 arrival 08,26
+1204 ils 08,26
+1202 56 57 twoway runway 08/26
+1204 departure 08,26
+1204 arrival 08,26
+1204 ils 08,26
+1202 57 58 twoway runway 08/26
+1204 departure 08,26
+1204 arrival 08,26
+1204 ils 08,26
+1202 58 53 twoway runway 08/26
+1204 departure 08,26
+1204 arrival 08,26
+1204 ils 08,26
+1202 62 63 twoway taxiway_D G
+1202 63 64 twoway taxiway_D G
+1202 64 65 twoway taxiway_D G
+1202 65 95 twoway taxiway_D G
+1202 66 5 twoway taxiway_F D
+1202 67 66 twoway taxiway_F D
+1202 68 67 twoway taxiway_F D
+1202 69 68 twoway taxiway_F D
+1202 70 69 twoway taxiway_F D
+1202 94 70 twoway taxiway_F D
+1202 71 55 twoway taxiway_F E
+1204 departure 08,26
+1204 arrival 08,26
+1202 72 71 twoway taxiway_F E
+1204 departure 08,26
+1204 arrival 08,26
+1202 73 72 twoway taxiway_F E
+1204 departure 08,26
+1204 arrival 08,26
+1202 74 73 twoway taxiway_F E
+1204 departure 08,26
+1204 arrival 08,26
+1202 75 74 twoway taxiway_F E
+1204 departure 08,26
+1204 arrival 08,26
+1202 76 75 twoway taxiway_F E
+1202 77 76 twoway taxiway_F E
+1202 78 77 twoway taxiway_F E
+1202 79 78 twoway taxiway_F E
+1202 80 79 twoway taxiway_F E
+1202 81 80 twoway taxiway_F E
+1204 departure 09,27
+1204 arrival 09,27
+1202 82 81 twoway taxiway_F E
+1204 departure 09,27
+1204 arrival 09,27
+1202 83 82 twoway taxiway_F E
+1204 departure 09,27
+1204 arrival 09,27
+1202 84 83 twoway taxiway_F E
+1204 departure 09,27
+1204 arrival 09,27
+1202 85 84 twoway taxiway_F E
+1204 departure 09,27
+1204 arrival 09,27
+1202 86 50 twoway taxiway_F E
+1204 departure 09,27
+1204 arrival 09,27
+1202 50 85 twoway taxiway_F E
+1204 departure 09,27
+1204 arrival 09,27
+1202 87 86 twoway taxiway_F E
+1202 88 87 twoway taxiway_F E
+1202 89 88 twoway taxiway_F E
+1202 90 89 twoway taxiway_F E
+1202 91 90 twoway taxiway_F E
+1202 92 91 twoway taxiway_F E
+1202 93 92 twoway taxiway_F E
+1202 94 95 twoway taxiway_F E
+1202 95 96 twoway taxiway_F E
+1202 96 97 twoway taxiway_F E
+1202 97 93 twoway taxiway_F E
+1202 100 94 twoway taxiway_F E
+1202 99 100 twoway taxiway_F B
+1202 100 7 twoway taxiway_F B
+1202 101 99 twoway taxiway_F B
+1202 52 101 twoway taxiway_F B
+1204 departure 09,27
+1204 arrival 09,27
+1202 102 103 twoway taxiway_C F
+1202 103 104 twoway taxiway_C F
+1202 104 105 twoway taxiway_C F
+1202 106 102 twoway taxiway_C F
+1202 107 106 twoway taxiway_C F
+1202 108 107 twoway taxiway_C F
+1202 97 108 twoway taxiway_C F
+1202 109 56 twoway taxiway_B H
+1204 departure 08,26
+1204 arrival 08,26
+1202 110 109 twoway taxiway_B H
+1204 departure 08,26
+1204 arrival 08,26
+1202 111 110 twoway taxiway_B H
+1204 departure 08,26
+1204 arrival 08,26
+1202 112 111 twoway taxiway_B H
+1204 departure 08,26
+1204 arrival 08,26
+1202 113 112 twoway taxiway_B H
+1202 114 113 twoway taxiway_B H
+1202 115 114 twoway taxiway_B H
+1202 116 115 twoway taxiway_B H
+1202 117 116 twoway taxiway_B H
+1202 118 117 twoway taxiway_B H
+1202 119 118 twoway taxiway_B H
+1202 120 119 twoway taxiway_B H
+1202 121 120 twoway taxiway_B H
+1202 122 121 twoway taxiway_B H
+1202 123 122 twoway taxiway_B H
+1202 124 123 twoway taxiway_B H
+1202 125 124 twoway taxiway_B H
+1202 126 125 twoway taxiway_B H
+1202 127 126 twoway taxiway_B H
+1204 departure 09,27
+1204 arrival 09,27
+1202 51 127 twoway taxiway_B H
+1204 departure 09,27
+1204 arrival 09,27
+1202 128 51 twoway taxiway_F G
+1204 departure 09,27
+1204 arrival 09,27
+1202 95 98 twoway taxiway_F G
+1202 98 128 twoway taxiway_F G
+1202 130 129 twoway taxiway_F E2
+1202 131 130 twoway taxiway_F E2
+1202 96 131 twoway taxiway_F E2
+1202 133 132 twoway taxiway_D 
+1202 134 133 twoway taxiway_D 
+1202 135 134 twoway taxiway_D 
+1202 136 135 twoway taxiway_D 
+1202 137 136 twoway taxiway_D 
+1202 12 137 twoway taxiway_D 
 99
