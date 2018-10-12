@@ -50,19 +50,11 @@ I always have more things that I wanted to include but didn't have time to add. 
 
 -individual trees and bushes are missing in some places
 
--terminal A is missing
-
--no buildings have normal maps
-
--no fire station or radar
-
 -VIP terminal and FBO terminal buildings are not accurate to the real thing
 
 -VIP terminal and terminal A are missing the airport signs
 
 -terminal B expanded apron is missing. This will not be included in v1.0.0 as I don't have enough source imagery to do it up to the accuracy of the rest of the airport
-
--no static aircraft
 
 -no wed taxi routes
 
@@ -74,10 +66,10 @@ I always have more things that I wanted to include but didn't have time to add. 
 
 -mysterious floating lights over some buildings
 
--strange reflections on buildings. I'm experimenting with normals, this will be fixed soon
-
 #### If you use reddit feel free to check out r/FlightsimModding and post there about anything you might be developing, mods you think are worth sharing, or with any questions. 
 
-8/21/2018 - v1.0.0
+10/9/2018 - v0.2.0
+
+8/21/2018 - v0.1.0
 
 8/13/2018 - Beta uploaded to github
