@@ -4,6 +4,8 @@
 ### DO NOT DISTRIBUTE
 you may modify for personal use but do not submit it to the org or any other website. If you make modifictions and you wish to have them featured on the official download, please send me a message or reply to the official forum thread
 
+Credit goes to MisterX6 for the use of his library and some assets from his KPDX scenery (with his permission), as well as Richard Antoine for the use of the RA Library and hdw for the PP Library
+
 **CONTACT INFO**:
 Feel free to contact me at either of these two links. I am more active on reddit so that is the best place to find me. 
 
@@ -20,8 +22,9 @@ unzip the main file you downloaded into xplane>custom scenery folder OR just dra
 
 IF YOU ARE HAVING ERRORS:
 1. check that you have all of the libraries installed. You need the following libraries installed
-	RA Library v1.1
+	RA Library v1.1+
 	MisterX Library v1.5+
+	PP Library v1.2+
 1a. Verify you installed both the base and the update for RA Library. You can check that you have done this by looking in the files for RA_Library>Vegetation>GreenLandscape>Lawn01.for as that file is only present when you have 1.1 installed
 2. Make sure you unzipped the folders properly. You should have inside your xplane>custom scenery folder a folder called MDPC - Punta Cana and inside that should be 3 other folders along with this readme
 3. Make sure your scenery load priorities are set properly. Check the scenery_packs.cfg file and make sure this scenery is listed. If it is there and it still doesnt work then delete your scenery_packs.cfg and releaunch the sim, that file will regenerate and it should fix it. 
@@ -46,27 +49,19 @@ I always have more things that I wanted to include but didn't have time to add. 
 
 -no ortho overlay (this is tentative, there isn't any good source so this might not happen)
 
--no apron flood lights
-
--individual trees and bushes are missing in some places
-
 -VIP terminal and FBO terminal buildings are not accurate to the real thing
 
 -VIP terminal and terminal A are missing the airport signs
 
 -terminal B expanded apron is missing. This will not be included in v1.0.0 as I don't have enough source imagery to do it up to the accuracy of the rest of the airport
 
--no wed taxi routes
-
--no ground vehicles/apron clutter
-
 -missing vehicle ground routes
-
--airport frequencies not defined
 
 -mysterious floating lights over some buildings
 
 #### If you use reddit feel free to check out r/FlightsimModding and post there about anything you might be developing, mods you think are worth sharing, or with any questions. 
+
+10/12/2018 - v0.2.2
 
 10/11/2018 - v0.2.1
 
