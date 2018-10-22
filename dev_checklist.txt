@@ -1,4 +1,4 @@
-++PUJ++ 128.5 hrs
+++PUJ++ 130.5 hrs
 [x] wedomaker
 [x] update libraries
 [x] get PP library
@@ -50,10 +50,10 @@
 [x] AI routes
 [x] apron clutter
 [x] airport frequencies
-[?] autogate
-[ ] decrease number of vehicles around parking spots
+[x] autogate
+[x] decrease number of vehicles around parking spots
+[x] ground routes
 [ ] set visibility groups for vehicles
-[ ] ground routes
 [ ] redo 08/26 edge lights
 [+] expanded E2 apron
 [+] runway 08 new taxiway
