@@ -1,5 +1,5 @@
 # MDPC-Punta Cana by function86
-<official post link pending for v1.0>
+https://forums.x-plane.org/index.php?/files/file/47896-mdpc-punta-cana-international/
 
 ### DO NOT DISTRIBUTE
 you may modify for personal use but do not submit it to the org or any other website. If you make modifictions and you wish to have them featured on the official download, please send me a message or reply to the official forum thread and I'll see what I can do to merge it with the master version. 
@@ -47,6 +47,8 @@ I always have more things that I wanted to include but didn't have time to add. 
 -terminal B expanded apron is missing. This will not be included in v1.0.0 as I don't have enough source imagery to do it up to the accuracy of the rest of the airport
 
 #### If you use reddit feel free to check out r/FlightsimModding and post there about anything you might be developing, mods you think are worth sharing, or with any questions. 
+
+10/26/2018 - v1.0.1
 
 10/24/2018 - v1.0.0
 
