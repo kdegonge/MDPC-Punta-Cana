@@ -3,11 +3,9 @@ A
 LINE_PAINT
 
 LAYER_GROUP markings +1
-TEXTURE ..\..\MisterX_Library\Airport\Taxilines\Taxilines.png
-TEXTURE_NORMAL 1.0 ..\..\MisterX_Library\Airport\Taxilines\Taxilines_NRM.png
+TEXTURE Taxilines.png
+TEXTURE_NORMAL 1.0 Taxilines_NRM.png
 LOD 5000
 TEX_WIDTH 4096
 SCALE 24 12
 S_OFFSET 0		1660	1740 1820
-
-
