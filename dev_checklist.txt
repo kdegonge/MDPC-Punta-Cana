@@ -1,4 +1,4 @@
-++PUJ++ 131 hrs
+++PUJ++ 130.5 hrs
 [x] wedomaker
 [x] update libraries
 [x] get PP library
@@ -54,10 +54,12 @@
 [x] decrease number of vehicles around parking spots
 [x] ground routes
 [x] set visibility groups for vehicles
-[ ] re-upload screenshots
-[ ] add airport metadata
-[ ] make new (smaller!) textures for the misterX assets
-[+] redo 08/26 edge lights
-[+] expanded E2 apron
-[+] runway 08 new taxiway
+[ ] redo 08/26 edge lights
+[ ] expanded E2 apron
+[ ] runway 08 new taxiway
+[ ] raise tower viewpoint
+[ ] move stuff from stands so GHD doesnt clip
+[ ] terminal clipping near stand 4
+[ ] vehicle rubber marks
+[ ] taxiway rubber marks
 [+] create cobble ground texture

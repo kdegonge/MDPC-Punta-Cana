@@ -63,3 +63,4 @@ I always have more things that I wanted to include but didn't have time to add. 
 8/21/2018 - v0.1.0
 
 8/13/2018 - Beta uploaded to github
+
