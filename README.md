@@ -1,8 +1,6 @@
 # MDPC-Punta Cana by function86
 https://forums.x-plane.org/index.php?/files/file/47896-mdpc-punta-cana-international/
 
-##This scenery is currently a WIP for v1.1. Some changes to this readme including creative commons license, libraries, and credits are not up to date for the current source. 
-
 ### DO NOT DISTRIBUTE
 you may modify for personal use but do not submit it to the org or any other website. If you make modifictions and you wish to have them featured on the official download, please send me a message or reply to the official forum thread and I'll see what I can do to merge it with the master version. 
 
@@ -12,6 +10,8 @@ Credit goes to MisterX6 for the use of his library and some assets from his KPDX
 Feel free to contact me at either of these two links. I am more active on reddit so that is the best place to find me. 
 
 xplane.org: https://forums.x-plane.org/index.php?/profile/534962-function86/
+
+reddit: https://www.reddit.com/user/StableSystem/
 
 You can also make posts regarding to this scenery at the official forum thread found at the link below.
 
@@ -47,3 +47,20 @@ I always have more things that I wanted to include but didn't have time to add. 
 -terminal B expanded apron is missing. This will not be included in v1.0.0 as I don't have enough source imagery to do it up to the accuracy of the rest of the airport
 
 #### If you use reddit feel free to check out r/FlightsimModding and post there about anything you might be developing, mods you think are worth sharing, or with any questions. 
+
+10/26/2018 - v1.0.1
+
+10/24/2018 - v1.0.0
+
+10/21/2018 - v0.2.3
+
+10/12/2018 - v0.2.2
+
+10/11/2018 - v0.2.1
+
+10/9/2018 - v0.2.0
+
+8/21/2018 - v0.1.0
+
+8/13/2018 - Beta uploaded to github
+
