@@ -4,7 +4,7 @@ OBJ
 
 POINT_COUNTS	919 0 0 1638
 GLOBAL_specular 0.5
-TEXTURE		misc_buildings.png
+TEXTURE		misc_buildings.dds
 TEXTURE_NORMAL misc_buildings_NML.dds
 
 VT	   7.3012   29.4132   -1.3071	 0.683 -0.259  0.683	 0.6853  0.8568

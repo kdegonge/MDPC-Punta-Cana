@@ -3,7 +3,7 @@ I
 OBJ
 
 POINT_COUNTS	5673	0	0	5673
-TEXTURE	terminal_a_thatched.png
+TEXTURE	terminal_a_thatched.dds
 TEXTURE_NORMAL	terminal_a_thatched_NML.dds
 
 VT	-120.85415649	0	-74.02062225	1	0	0	0.35320726	0.00510196

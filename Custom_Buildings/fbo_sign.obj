@@ -3,7 +3,7 @@ I
 OBJ
 
 POINT_COUNTS	834	0	0	834
-TEXTURE	fbo_sign.png
+TEXTURE	fbo_sign.dds
 TEXTURE_LIT	fbo_sign_lit.png
 TEXTURE_NORMAL fbo_sign_NML.dds
 

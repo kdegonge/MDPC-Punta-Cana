@@ -3,7 +3,7 @@ I
 OBJ
 
 POINT_COUNTS	123	0	0	123
-TEXTURE	terminal_a_airside2.png
+TEXTURE	terminal_a_airside2.dds
 TEXTURE_NORMAL	terminal_a_airside2_NML.dds
 
 VT	-152.96176147	3.0480001	-37.46582413	0	0	-1	0.87645805	0.23873569

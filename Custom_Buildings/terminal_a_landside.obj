@@ -3,7 +3,7 @@ I
 OBJ
 
 POINT_COUNTS	966	0	0	966
-TEXTURE	terminal_a_landside.png
+TEXTURE	terminal_a_landside.dds
 TEXTURE_NORMAL	terminal_a_landside_NML.png
 
 VT	126.75645447	0	-0.06124049	1	0	0	0.77554595	0.24571121

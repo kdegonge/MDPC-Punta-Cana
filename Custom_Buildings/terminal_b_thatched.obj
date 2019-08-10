@@ -4,8 +4,8 @@ OBJ
 
 POINT_COUNTS	945	0	2	945
 GLOBAL_specular 1.0
-TEXTURE	terminal_b_thatched.png
-TEXTURE_LIT terminal_b_thatched_lit.png
+TEXTURE	terminal_b_thatched.dds
+TEXTURE_LIT terminal_b_thatched_lit.dds
 TEXTURE_NORMAL terminal_b_thatched_NML.dds
 
 VT	-76.99767303	0	95.95053864	0	-1	0	0.43038353	0.38747531

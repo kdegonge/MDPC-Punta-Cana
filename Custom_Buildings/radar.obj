@@ -2,7 +2,7 @@ I
 800
 OBJ
 
-TEXTURE	radar.png
+TEXTURE	radar.dds
 TEXTURE_NORMAL	radar_NML.dds
 POINT_COUNTS	486	0	0	486
 

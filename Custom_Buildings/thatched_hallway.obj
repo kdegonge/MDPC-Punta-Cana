@@ -3,7 +3,7 @@ I
 OBJ
 
 POINT_COUNTS	512 0 0 768
-TEXTURE		misc_buildings.png
+TEXTURE		misc_buildings.dds
 TEXTURE_NORMAL misc_buildings_NML.dds
 
 VT	  -8.0278    6.1976    0.1759	 0.000  0.836 -0.548	 0.3319  0.5709
